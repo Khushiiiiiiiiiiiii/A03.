@@ -1,2 +1,2 @@
 # A03.
-theme: midnight
+remote_theme: midnight
