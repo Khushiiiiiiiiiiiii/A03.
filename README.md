@@ -1,20 +1,19 @@
 # A03.
 Khushi Patel
 
-'#0d1117'
 
-*-**Branch:** New or separate version of the main repositorynewline
-*-**Clone:** Copying a repository from Github to local repository newline
-*-**Commit:** An change made to a repository and keeping them in repository indefinitely newline
-*-**Fetch:** It is a primary command that is useful when downloading commands from a remote repository newline
-*-**GIT:** Version system control used to track changes made in computer files. newline
-*-**Github:** Distributed version-control platform where users can collaborate on or adopt open source projects, code, and share ideas. newline
-*-**Merge:** Is a git’s way of putting a forked history back together. newline
-*-**Merge Conflict:** Merge conflict happens when you try to merge branches that are doing two opposite things and GIT wants your help in deciding which one to keep. newline
-*-**Push:** The push command is used to upload local repository content to remote repositories. newline
-*-**Pull:** Pull lets you tell others about the changes you have made to the repository. newline
-*-**Remote:** Remote is a place where your code is stored. newline
-*-**Repository:** A repository contains all of your project’s files and each file’s revision history. newline
+* -**Branch:** New or separate version of the main repositorynewline
+* -**Clone:** Copying a repository from Github to local repository newline
+* -**Commit:** An change made to a repository and keeping them in repository indefinitely newline
+* -**Fetch:** It is a primary command that is useful when downloading commands from a remote repository newline
+* -**GIT:** Version system control used to track changes made in computer files. newline
+* -**Github:** Distributed version-control platform where users can collaborate on or adopt open source projects, code, and share ideas. newline
+* -**Merge:** Is a git’s way of putting a forked history back together. newline
+* -**Merge Conflict:** Merge conflict happens when you try to merge branches that are doing two opposite things and GIT wants your help in deciding which one to keep. newline
+* -**Push:** The push command is used to upload local repository content to remote repositories. newline
+* -**Pull:** Pull lets you tell others about the changes you have made to the repository. newline
+* -**Remote:** Remote is a place where your code is stored. newline
+* -**Repository:** A repository contains all of your project’s files and each file’s revision history. newline
 
 ## Webstorm Tutorial:
 To install Webstorm, you have to go to [Jetbrain Website](https://www.jetbrains.com/student/) then you fill out an application to receive free software. You will have to submit your student ID card in order to receive the package. You can link your free license to a new or existing account. 
