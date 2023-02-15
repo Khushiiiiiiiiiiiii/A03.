@@ -21,13 +21,13 @@ To install Webstorm, you have to go to [Jetbrain Website](https://www.jetbrains.
 ## Git Tutorial:
 To install Git, download it from [Git Website](https://git-scm.com/downloads) and make sure to download it as a Local Program. Create a Github account. 
 
-* 2. The next step is to connect Github with webstorm. 
-* 3. To do that, press (Ctrl+Alt+S) in system preferences of Webstorm. Then continue to select Version control Git. Enter the path to the git.exe. 
-* 4. Go on to add Github password to Webstorm. Then, select Appearance and Behavior, System Settings, and then continue to Passwords. 
-* 5. Go to Github and click the + sign in the upper right corner. Select “Create New Repository” and then create the repository public and then add the readme file and click create. 
-* 6. Create a repository from Webstorm by selecting VCS and Import into Version Control. Import a Repository from Github from Main Page by selecting Checkout from version control. Git or from Webstorm select VCS. 
-* 7. Checkout from version control and then click Git. Enter the Github repository name and then enter the local path name. You can create a Webstorm file by clicking File, HTML, HTML 5 or File, and then Stylesheet. 
-* 8. You can add files to GIT when the add to Git dialog comes up. Click Add and this adds to the local file system. 
-* 9. You can push change to Remote Repository. Simply click “CTRL”  and then “Shift” and “K” or you can click “VCS” then “Git” and then click “Push”. 
-* 10. You can even set up Github Pages. Just click Settings and then Check the Repository name. You can select GitHub Page Location. Select “Master Branch” and then Note the published URL. 
-* 11. You can check GitHub Pages. Just copy the Github.io URL into a browser. Post the URL into Moodle with your Github account URL. 
+2. The next step is to connect Github with webstorm. 
+3. To do that, press (Ctrl+Alt+S) in system preferences of Webstorm. Then continue to select Version control Git. Enter the path to the git.exe. 
+4. Go on to add Github password to Webstorm. Then, select Appearance and Behavior, System Settings, and then continue to Passwords. 
+5. Go to Github and click the + sign in the upper right corner. Select “Create New Repository” and then create the repository public and then add the readme file and click create. 
+6. Create a repository from Webstorm by selecting VCS and Import into Version Control. Import a Repository from Github from Main Page by selecting Checkout from version control. Git or from Webstorm select VCS. 
+7. Checkout from version control and then click Git. Enter the Github repository name and then enter the local path name. You can create a Webstorm file by clicking File, HTML, HTML 5 or File, and then Stylesheet. 
+8. You can add files to GIT when the add to Git dialog comes up. Click Add and this adds to the local file system. 
+9. You can push change to Remote Repository. Simply click “CTRL”  and then “Shift” and “K” or you can click “VCS” then “Git” and then click “Push”. 
+10. You can even set up Github Pages. Just click Settings and then Check the Repository name. You can select GitHub Page Location. Select “Master Branch” and then Note the published URL. 
+11. You can check GitHub Pages. Just copy the Github.io URL into a browser. Post the URL into Moodle with your Github account URL. 
